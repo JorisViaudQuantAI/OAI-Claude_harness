@@ -58,8 +58,8 @@ The objective is to reproduce the **behavior**, not the original expression.
 Clone the repository and enter the Rust workspace:
 
 ```bash
-git clone https://github.com/<your-user>/<your-fork>.git
-cd <your-fork>/src-rust
+git clone https://github.com/JorisViaudQuantAI/OAI-Claude_harness.git
+cd OAI-Claude_harness/src-rust
 ```
 
 Build the CLI:
